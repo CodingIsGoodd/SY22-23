@@ -1,0 +1,13 @@
+C:\Users\doboa986\Documents\SY22-23\VB\windows app\windows app\bin\Debug\windows app.exe.config
+C:\Users\doboa986\Documents\SY22-23\VB\windows app\windows app\bin\Debug\windows app.exe
+C:\Users\doboa986\Documents\SY22-23\VB\windows app\windows app\bin\Debug\windows app.pdb
+C:\Users\doboa986\Documents\SY22-23\VB\windows app\windows app\bin\Debug\windows app.xml
+C:\Users\doboa986\Documents\SY22-23\VB\windows app\windows app\obj\Debug\windows app.vbproj.AssemblyReference.cache
+C:\Users\doboa986\Documents\SY22-23\VB\windows app\windows app\obj\Debug\windows app.vbproj.SuggestedBindingRedirects.cache
+C:\Users\doboa986\Documents\SY22-23\VB\windows app\windows app\obj\Debug\windows_app.Form1.resources
+C:\Users\doboa986\Documents\SY22-23\VB\windows app\windows app\obj\Debug\windows_app.Resources.resources
+C:\Users\doboa986\Documents\SY22-23\VB\windows app\windows app\obj\Debug\windows app.vbproj.GenerateResource.cache
+C:\Users\doboa986\Documents\SY22-23\VB\windows app\windows app\obj\Debug\windows app.vbproj.CoreCompileInputs.cache
+C:\Users\doboa986\Documents\SY22-23\VB\windows app\windows app\obj\Debug\windows app.exe
+C:\Users\doboa986\Documents\SY22-23\VB\windows app\windows app\obj\Debug\windows app.xml
+C:\Users\doboa986\Documents\SY22-23\VB\windows app\windows app\obj\Debug\windows app.pdb
